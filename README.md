@@ -1,5 +1,6 @@
-- 👋 Oi, eu sou [@domingosvanjo](https://www.instagram.com/vanjodom/)
+- 👋 Oi, eu sou [Domingos vanjo](https://www.instagram.com/vanjodom/)
 - 👀 Estou interesado em aprender e compartilhar códigos de programação
 - 🌱 Formado em Análise e Desenvolvimento de Sistemas na PUC-GO
 - 💻 Estou procurando colocação na área de TI Front-End
 - 🆚 Aqui estão alguns códigos que desenvolvi
+- 📄 Veja meu [portifólio](https://domingosvanjo.github.io/portifolio/) para mais contatos.
