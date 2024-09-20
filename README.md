@@ -1,10 +1,5 @@
-- 👋 Oi, eu sou @domingosvanjo
+- 👋 Oi, eu sou [@domingosvanjo](https://www.instagram.com/vanjodom/)
 - 👀 Estou interesado em aprender e compartilhar códigos de programação
-- 🌱 Estou atualmente estudando Análise e Desenvolvimento de Sistemas na PUC-GO, 4º período
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-domingosvanjo/domingosvanjo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🌱 Formado em Análise e Desenvolvimento de Sistemas na PUC-GO
+- 💻 Estou procurando colocação na área de TI Front-End
+- 🆚 Aqui estão alguns códigos que desenvolvi
