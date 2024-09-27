@@ -1,4 +1,4 @@
-## Domingos Vanjo
+## Sobre mim
 
 Atualmente estou aprendendo ainda mais sobre análise de dados e linguagens de programação. ️🤖📊
 
