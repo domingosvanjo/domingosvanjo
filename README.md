@@ -1,12 +1,12 @@
 ## Sobre mim
 
-<p align='justify'>Atualmente estou aprendendo ainda mais sobre análise de dados e linguagens de programação. ️🤖📊
+<p align='justify'>Atualmente estou aprendendo ainda mais sobre análise de dados e linguagens de programação. ️🤖📊</p>
 
-Sou formado em Análise de Sistemas e Letras. Conhecimento em qualidade de software, metodologias ágeis e frameworks. 🏭
+<p align='justify'>Sou formado em Análise de Sistemas e Letras. Conhecimento em qualidade de software, metodologias ágeis e frameworks. 🏭</p>
 
-Meu profundo contato com a programação veio através da necessidade de automatizar tarefas diárias na área administrativa escolar, onde iniciei desenvolvendo sistemas em Access e automatizando planilias de Excel com macros. Depois desenvolvi um sistema para controle administrativo escolar em Visual Basic. Me formei em Análises de Sistemas pela PUC-GO, onde aprendi muito sobre qualidade de software e metologias de projeto. 🔬🔎📷
+<p align='justify'>Meu profundo contato com a programação veio através da necessidade de automatizar tarefas diárias na área administrativa escolar, onde iniciei desenvolvendo sistemas em Access e automatizando planilias de Excel com macros. Depois desenvolvi um sistema para controle administrativo escolar em Visual Basic. Me formei em Análises de Sistemas pela PUC-GO, onde aprendi muito sobre qualidade de software e metologias de projeto. 🔬🔎📷</p>
 
-Estou sempre em busca de novos desafios relacionados à área de tecnologia, inovação, análise de dados e programação, onde quero aprender e crescer com a indústria. Sou uma pessoa proativa, que gosta de projetos de equipe e pronta para crescer através do aprendizado técnico, teórico e prático. 🎯</p>
+<p align='justify'>Estou sempre em busca de novos desafios relacionados à área de tecnologia, inovação, análise de dados e programação, onde quero aprender e crescer com a indústria. Sou uma pessoa proativa, que gosta de projetos de equipe e pronta para crescer através do aprendizado técnico, teórico e prático. 🎯</p>
 
 ## Conecte-se comigo
 
